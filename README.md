@@ -8,8 +8,4 @@
 IOS版本:8.4
 
 演示:
-![demo](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo.gif)
-
-![demo1](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo1.gif) 
-
-![demo2](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo2.gif) 
+![demo](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo.gif) ![demo1](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo1.gif) ![demo2](https://github.com/hezuoguang/weiliao/blob/master/demoGif/demo2.gif) 
