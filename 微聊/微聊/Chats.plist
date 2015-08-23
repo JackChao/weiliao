@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!</string>
+		<key>time</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>你好!</string>
+		<key>time</key>
+		<string>Tue May 26 17:26:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>hi</string>
+		<key>time</key>
+		<string>Tue May 26 17:26:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>UIMenuController *menu = [UIMenuController sharedMenuController];
+    UIMenuItem *item1 = [[UIMenuItem alloc] initWithTitle:@&quot;复制&quot; action:@selector(copyContent)];
+    UIMenuItem *item2 = [[UIMenuItem alloc] initWithTitle:@&quot;转发&quot; action:@selector(repostContent)];
+    UIMenuItem *item3 = [[UIMenuItem alloc] initWithTitle:@&quot;删除&quot; action:@selector(deleteContent)];
+    UIMenuItem *item4 = [[UIMenuItem alloc] initWithTitle:@&quot;更多&quot; action:@selector(moreOperate)];
+    menu.menuItems = @[item1, item2, item3, item4];
+    CGSize size = self.bounds.size;
+    CGRect rect = [self convertRect:self.bounds toView:[UIApplication sharedApplication].keyWindow];
+    CGFloat X = size.width * 0.5;
+    CGFloat Y = 0;
+    if (rect.origin.y &lt; 64) {
+        Y = size.height;
+        [menu setArrowDirection:UIMenuControllerArrowUp];
+    } else {
+        [menu setArrowDirection:UIMenuControllerArrowDown];
+    }
+    [menu setTargetRect:CGRectMake(X, Y, 0, 0) inView:self];
+    
+    [self becomeFirstResponder];
+    [menu setMenuVisible:YES animated:YES];</string>
+		<key>time</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!测试内容dn多少鼎汉技术好久阿斯顿1!!!</string>
+		<key>time</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>text</key>
+		<string>ss</string>
+		<key>time</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+		<key>isMeSend</key>
+		<true/>
+	</dict>
+</array>
+</plist>

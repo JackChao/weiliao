@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>remindCount</key>
+		<integer>1</integer>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123480</string>
+		</dict>
+		<key>detailText</key>
+		<string>测试内容1!!!</string>
+		<key>createTime</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+	</dict>
+	<dict>
+		<key>remindCount</key>
+		<integer>10</integer>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123450</string>
+		</dict>
+		<key>detailText</key>
+		<string>测试内容1!!!</string>
+		<key>createTime</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+	</dict>
+	<dict>
+		<key>remindCount</key>
+		<integer>1</integer>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123488</string>
+		</dict>
+		<key>detailText</key>
+		<string>测试内容1!!!</string>
+		<key>createTime</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+	</dict>
+	<dict>
+		<key>remindCount</key>
+		<integer>3</integer>
+		<key>user</key>
+		<dict>
+			<key>photo</key>
+			<string>http://file.market.xiaomi.com/thumbnail/PNG/l62/AppStore/0bd7a85f8667d439a25eac1f31bc42c4f204b577b</string>
+			<key>name</key>
+			<string>乐消消</string>
+			<key>uid</key>
+			<string>123489</string>
+		</dict>
+		<key>detailText</key>
+		<string>测试内容1!!!</string>
+		<key>createTime</key>
+		<string>Tue May 26 17:46:55 +0800 2015</string>
+	</dict>
+</array>
+</plist>

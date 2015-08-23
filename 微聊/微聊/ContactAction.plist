@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string></string>
+		<key>models</key>
+		<array>
+			<dict>
+				<key>popClass</key>
+				<string>newFriend</string>
+				<key>name</key>
+				<string>新的好友</string>
+				<key>photo</key>
+				<string>all_list_icon_friend_verification</string>
+			</dict>
+			<dict>
+				<key>popClass</key>
+				<string></string>
+				<key>name</key>
+				<string>好友群聊</string>
+				<key>photo</key>
+				<string>all_list_icon_friend_duoren</string>
+			</dict>
+			<dict>
+				<key>popClass</key>
+				<string></string>
+				<key>name</key>
+				<string>公会</string>
+				<key>photo</key>
+				<string>all_list_icon_friend_group</string>
+			</dict>
+			<dict>
+				<key>popClass</key>
+				<string></string>
+				<key>name</key>
+				<string>订阅号</string>
+				<key>photo</key>
+				<string>all_list_icon_friend_rss</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>models</key>
+		<array>
+			<dict>
+				<key>popClass</key>
+				<string></string>
+				<key>name</key>
+				<string>背景</string>
+				<key>photo</key>
+				<string>all_list_icon_small_talkbg</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>models</key>
+		<array>
+			<dict>
+				<key>popClass</key>
+				<string>suggest</string>
+				<key>name</key>
+				<string>意见反馈</string>
+				<key>photo</key>
+				<string>all_list_icon_small_advice</string>
+			</dict>
+			<dict>
+				<key>popClass</key>
+				<string>about</string>
+				<key>name</key>
+				<string>关于与帮助</string>
+				<key>photo</key>
+				<string>all_list_icon_small_about</string>
+			</dict>
+			<dict>
+				<key>popClass</key>
+				<string>setting</string>
+				<key>name</key>
+				<string>设置</string>
+				<key>photo</key>
+				<string>all_list_icon_small_setting</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

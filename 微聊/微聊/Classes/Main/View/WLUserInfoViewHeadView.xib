@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="WLUserInfoViewHeadView">
+            <rect key="frame" x="0.0" y="0.0" width="576" height="242"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="male_default_head_img" translatesAutoresizingMaskIntoConstraints="NO" id="cGr-Jk-OFG">
+                    <rect key="frame" x="0.0" y="0.0" width="576" height="242"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="微米" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lXV-91-H7u">
+                    <rect key="frame" x="0.0" y="182" width="576" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="471-RK-RzD"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="weimi" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nkk-7j-FwD">
+                    <rect key="frame" x="0.0" y="212" width="576" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="dlU-1m-trA"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="male_default_head_img" translatesAutoresizingMaskIntoConstraints="NO" id="bQk-33-VqQ" customClass="WLPhotoView">
+                    <rect key="frame" x="238" y="82" width="100" height="100"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="100" id="3dH-k9-Ais"/>
+                        <constraint firstAttribute="height" constant="100" id="zkR-dO-VuJ"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="bQk-33-VqQ" secondAttribute="bottom" constant="70" id="6vj-6h-HvB"/>
+                <constraint firstItem="cGr-Jk-OFG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Hd9-fb-ZTt"/>
+                <constraint firstItem="nkk-7j-FwD" firstAttribute="top" secondItem="lXV-91-H7u" secondAttribute="bottom" id="Hlv-K7-oqx"/>
+                <constraint firstItem="nkk-7j-FwD" firstAttribute="top" secondItem="lXV-91-H7u" secondAttribute="bottom" constant="10" id="YMe-8P-vpL"/>
+                <constraint firstItem="cGr-Jk-OFG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ZCx-JX-cZh"/>
+                <constraint firstItem="lXV-91-H7u" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ak9-qo-Hn0"/>
+                <constraint firstAttribute="trailing" secondItem="cGr-Jk-OFG" secondAttribute="trailing" id="bXF-VR-Z3N"/>
+                <constraint firstAttribute="trailing" secondItem="nkk-7j-FwD" secondAttribute="trailing" id="bXN-n0-pbQ"/>
+                <constraint firstItem="nkk-7j-FwD" firstAttribute="top" secondItem="lXV-91-H7u" secondAttribute="bottom" constant="5" id="biE-8e-pPv"/>
+                <constraint firstItem="lXV-91-H7u" firstAttribute="top" secondItem="bQk-33-VqQ" secondAttribute="bottom" id="eS3-Sy-3bg"/>
+                <constraint firstAttribute="centerY" secondItem="bQk-33-VqQ" secondAttribute="centerY" id="imo-5p-6sV"/>
+                <constraint firstAttribute="bottom" secondItem="cGr-Jk-OFG" secondAttribute="bottom" id="mti-dE-OSX"/>
+                <constraint firstAttribute="bottom" secondItem="nkk-7j-FwD" secondAttribute="bottom" constant="10" id="sW8-bb-BGZ"/>
+                <constraint firstAttribute="centerX" secondItem="bQk-33-VqQ" secondAttribute="centerX" id="uXT-DJ-yZq"/>
+                <constraint firstAttribute="trailing" secondItem="lXV-91-H7u" secondAttribute="trailing" id="uaG-91-hFo"/>
+                <constraint firstItem="nkk-7j-FwD" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="wfl-9N-wmC"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="YMe-8P-vpL"/>
+                    <exclude reference="biE-8e-pPv"/>
+                    <exclude reference="6vj-6h-HvB"/>
+                    <exclude reference="imo-5p-6sV"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="bgImageView" destination="cGr-Jk-OFG" id="ngK-7I-NQk"/>
+                <outlet property="detailLabel" destination="nkk-7j-FwD" id="JCt-dU-fkZ"/>
+                <outlet property="nameLabel" destination="lXV-91-H7u" id="6ot-jk-EgV"/>
+                <outlet property="photoView" destination="bQk-33-VqQ" id="gie-kX-jxN"/>
+            </connections>
+            <point key="canvasLocation" x="353" y="259"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="male_default_head_img" width="80" height="80"/>
+    </resources>
+</document>
